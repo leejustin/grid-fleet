@@ -1,0 +1,81 @@
+{
+  "identifier" : "6F1A0B2C",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : true,
+      "internalID" : "6740000001",
+      "localizations" : [
+        {
+          "description" : "Admiral AI, salvo mode, extra boards and special weapons.",
+          "displayName" : "Admiral's Commission",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.leejustin.gridfleet.admiral",
+      "referenceName" : "Admiral's Commission",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : true,
+      "internalID" : "6740000002",
+      "localizations" : [
+        {
+          "description" : "Abyss, Lagoon, Graph Paper and Arctic themes.",
+          "displayName" : "Ocean Themes",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.leejustin.gridfleet.oceans",
+      "referenceName" : "Ocean Themes",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "6740000003",
+      "localizations" : [
+        {
+          "description" : "Brass, Stealth and Coral hulls.",
+          "displayName" : "Hull Skins",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.leejustin.gridfleet.hulls",
+      "referenceName" : "Hull Skins",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "6740000004",
+      "localizations" : [
+        {
+          "description" : "Ink Cloud, Fireworks and 8-Bit explosions.",
+          "displayName" : "Blast FX",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.leejustin.gridfleet.blasts",
+      "referenceName" : "Blast FX",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : [
+
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
